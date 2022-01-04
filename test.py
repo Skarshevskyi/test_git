@@ -6,3 +6,7 @@ def test():
 class hello():
     def test():
         pass
+
+
+x = 1
+print(x)
