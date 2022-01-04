@@ -10,3 +10,5 @@ class hello():
 
 x = 1
 print(x)
+def print_test(self):
+    print("TEST")
